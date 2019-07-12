@@ -1,0 +1,13 @@
+# IDE & System Related Files #
+.buildpath
+.editorconfig
+.project
+.settings
+.DS_Store
+.idea
+.vscode
+
+# Local System Files (i.e. cache, logs, etc.) #
+/css/user.css
+
+
